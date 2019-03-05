@@ -19,6 +19,9 @@ Este grupo está dirigido a responder y plantear dudas sobre el uso del software
   - #### Documentación
     - [The entire Pro Git book](https://git-scm.com/book/en/v2)
     - [Reference manual](https://git-scm.com/docs).
+  - #### Guías 
+    - [git - the simple guide](https://rogerdudler.github.io/git-guide/)
+    - [Git & GitHub Crash Course For Beginners](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
   - #### Soporte
     - [#git](https://webchat.freenode.net/) en Freenode, se requiere un nick registrado para acceder
     - [#github](https://webchat.freenode.net/) en Freenode, del mismo modo requiere nick registrado, además en este caso es sólo para lo relacionado con la plataforma [Github](https://github.com/)
