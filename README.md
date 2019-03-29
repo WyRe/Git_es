@@ -7,7 +7,7 @@ Este grupo está dirigido a responder y plantear dudas sobre el uso del software
   - Prohibido flood o spam
   - Prohibidas faltas de respeto u ofensas personales
   - **Prohibido** todo contenido de tipo [NSFW](https://es.wikipedia.org/wiki/NSFW)
-  - Restricciones moderadas sobre contenido off-topic. Es un canal dedicado a git, pero eventualmente pueden surgir otros temas de conversación relacionados de interés. 
+  - Restricciones moderadas sobre contenido off-topic. Es un grupo dedicado a git, pero eventualmente pueden surgir otros temas de conversación relacionados de interés. 
 
 
 ## Enlaces de interés
