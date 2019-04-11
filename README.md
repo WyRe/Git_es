@@ -25,7 +25,7 @@ Este grupo está dirigido a responder y plantear dudas sobre el uso del software
   - #### Soporte
     - [#git](https://webchat.freenode.net/) en Freenode, se requiere un nick registrado para acceder
     - [#github](https://webchat.freenode.net/) en Freenode, del mismo modo requiere nick registrado, además en este caso es sólo para lo relacionado con la plataforma [Github](https://github.com/)
-    - [#gitlab](https://webchat.freenode.net/) en Freenodem, similar al anterior, en este caso de [Gitlab](https://gitlab.com/)
+    - [#gitlab](https://webchat.freenode.net/) en Freenode, similar al anterior, en este caso de [Gitlab](https://gitlab.com/)
     
 ## Contributors
   - [WyRe](https://github.com/WyRe)
