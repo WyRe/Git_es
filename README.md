@@ -15,6 +15,7 @@ Este grupo está dirigido a responder y plantear dudas sobre el uso del software
 ### Castellano
   - #### Documentación
     - [The entire Pro Git book](https://git-scm.com/book/es/v2)
+	- [Oh shit git](https://ohshitgit.com)
 ### Inglés
   - #### Documentación
     - [The entire Pro Git book](https://git-scm.com/book/en/v2)
